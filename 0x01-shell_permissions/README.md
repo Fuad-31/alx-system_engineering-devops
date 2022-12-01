@@ -1,1 +1,1 @@
-./4-empty: this script create an empty file
+./5-execute: this script add execytion permission to hello
