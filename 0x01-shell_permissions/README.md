@@ -1,1 +1,1 @@
-2-groups: this script lists all the groups the current user is part of
+./3-new_owner: this scripts changes the owner of hello to betty
