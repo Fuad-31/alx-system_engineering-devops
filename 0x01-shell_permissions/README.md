@@ -1,1 +1,1 @@
-./3-new_owner: this scripts changes the owner of hello to betty
+./4-empty: this script create an empty file
