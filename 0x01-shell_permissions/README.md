@@ -1,1 +1,1 @@
-7-everybody: this script adds execution permission to the owner, the group owner and the other users, to the file hello
+./100-change_owner_and_group: This scriptschanges the owner to vincent and the group owner to staff for all the files and directories in the working directory
