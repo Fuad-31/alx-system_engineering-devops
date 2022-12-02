@@ -1,1 +1,1 @@
-./13-change_group: this script changes the group owner to school for the file hello
+7-everybody: this script adds execution permission to the owner, the group owner and the other users, to the file hello
