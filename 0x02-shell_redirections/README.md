@@ -6,3 +6,4 @@
 ./5-firstlines: this script displays  the first 10 lines of /etc/passwd
 ./6-third_line: this script displays the content of the third line of the file iacta
 ./7-file: this script creates a file containing Best School
+./8-cwd_state: this script writes into the file ls_cwd_content the result of the command ls -la
