@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -e 'printf("%d\n", bin("BINARY"))'
+echo $((2#${BINARY}))
